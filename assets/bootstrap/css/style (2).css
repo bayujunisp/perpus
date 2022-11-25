@@ -1,0 +1,11 @@
+body{
+	background: url('../../../assets/background.jpg');
+}
+
+.panel{
+	opacity:0.9;
+}
+
+.page-header{
+	color: #ffffff;
+}
